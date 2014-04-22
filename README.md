@@ -1,0 +1,4 @@
+core
+====
+
+the basic project
